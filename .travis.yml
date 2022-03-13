@@ -1,4 +1,4 @@
-os: Windows 10
+os: Windows
 dist: focal
 language: python
 
